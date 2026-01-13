@@ -2,4 +2,4 @@
 
 ## Chapter 1
 
-(Slides Chapter 1)[chapter1.pdf]
+[Slides Chapter 1](chapter1.pdf)
