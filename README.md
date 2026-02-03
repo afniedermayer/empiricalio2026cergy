@@ -12,6 +12,10 @@
 
 [Slides Chapter 3](chapter3.pdf)
 
+## Chapter 4
+
+[Slides Chapter 3](chapter4.pdf)
+
 
 ## Problem Sets
 
