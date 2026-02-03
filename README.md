@@ -14,8 +14,9 @@
 
 ## Chapter 4
 
-[Slides Chapter 3](chapter4.pdf)
+[Slides Chapter 4](chapter4.pdf)
 
+[Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
 
 ## Problem Sets
 
