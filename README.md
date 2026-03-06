@@ -54,3 +54,5 @@ Please download the following notebooks, read them carefully, and execute the co
 [Problem Set 2](problem_set2.pdf), due date: February 11, 2026
 
 Problem Set 3: Please solve Exercise 2 in the [Kernel Density Estimation Notebook](kernel-density-example-exercise1.ipynb) we worked on in class, due date: February 11, 2026
+
+[Problem Set 4](problem_set4.pdf), due date: March 11, 2026
