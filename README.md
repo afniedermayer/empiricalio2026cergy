@@ -47,6 +47,14 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook with BLP Exercise](exercise_blp.ipynb)
 
+## Chapter 7
+
+[Slides Chapter 7](chapter7.pdf)
+
+[Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
+
+[Notebook Nonlinear Pricing](nlp2.ipynb)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: January 28, 2026
