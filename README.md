@@ -53,6 +53,8 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
 
+[Notebook on Maximization and Equation Solving (with solution)](maximize_solve_solution.ipynb)
+
 [Notebook Nonlinear Pricing](nlp2.ipynb)
 
 ## Problem Sets
