@@ -57,6 +57,12 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook Nonlinear Pricing](nlp2.ipynb)
 
+## Chapter 8
+
+[Slides Chapter 8](chapter8.pdf)
+
+[Notebook Unobserved Heterogeneity](unobserved_heterogeneity.ipynb)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: January 28, 2026
