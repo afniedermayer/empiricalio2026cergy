@@ -74,3 +74,9 @@ Problem Set 3: Please solve Exercise 2 in the [Kernel Density Estimation Noteboo
 [Problem Set 4](problem_set4.pdf), due date: March 11, 2026
 
 Problem Set 5: Please solve exercise in [BLP Notebook](exercise_blp.ipynb), due date: March 18, 2026
+
+Problem Set 6: Prepare a 40-minute presentation of one of the following papers as if it were your own paper (please coordinate to make sure you present different papers):
+- [Berry, S., Levinsohn, J., & Pakes, A. (1995). Automobile Prices in Market Equilibrium. Econometrica, 63(4), 841-890.](https://www.academia.edu/download/81000119/BLP.pdf)
+- [Luo, Y., Perrigne, I., & Vuong, Q. (2018). Structural analysis of nonlinear pricing. Journal of Political Economy, 126(6), 2523-2568.](https://www.journals.uchicago.edu/doi/abs/10.1086/699978)
+- [Krasnokutskaya, E. (2011). Identification and estimation of auction models with unobserved heterogeneity. The Review of Economic Studies, 78(1), 293-327.](https://academic.oup.com/restud/article/78/1/293/1534722?guestAccessKey=)
+date of presentations: April 1, 2026
