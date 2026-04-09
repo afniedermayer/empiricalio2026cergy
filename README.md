@@ -1,5 +1,9 @@
 # Course Information Empirical Industrial Organization 2026 at Cergy Paris Université
 
+## Exam
+
+[Take Home Exam](take-home-exam.ipynb), deadline April 21
+
 ## Chapter 1
 
 [Slides Chapter 1](chapter1.pdf)
